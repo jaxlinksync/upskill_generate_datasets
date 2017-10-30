@@ -1,0 +1,3 @@
+PREPROCESSED_WAV_FOLDER = 'preprocessed_wav_files'
+ORIGINAL_WAV_FOLDER = 'wav_files'
+SAMPLING_RATE = '48000'
