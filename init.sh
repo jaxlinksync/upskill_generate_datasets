@@ -23,6 +23,7 @@ make -f MakefileCPU all
 cd ../HTKTools
 make -f MakefileCPU all
 apt-get install sox
+cd ../../../../
 mkdir wav_files
 cd wav_files
 wget https://linksync-2032.kxcdn.com/wp-content/uploads/2017/06/female-voice-1.zip
